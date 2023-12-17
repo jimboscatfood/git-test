@@ -1,1 +1,2 @@
 Hello World!
+I moved the repo directory and try to commit to see if it works 
